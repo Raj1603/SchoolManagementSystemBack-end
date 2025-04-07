@@ -25,7 +25,7 @@ A comprehensive and user-friendly digital school administration system that enab
 
 
 
-### 🧾 Swagger UI Screenshot  
+### 🧾 Swagger UI Screenshot/Current API Dev Status
 ![Screenshot 2025-04-07 173813](https://github.com/user-attachments/assets/e60ebbd3-8892-4f55-84e3-76ffdbb2daea)
 
 
