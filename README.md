@@ -20,13 +20,13 @@ A comprehensive and user-friendly digital school administration system that enab
 ## 🖼️ Screenshots
 
 ### 🎨 UI Screenshot  
-![SchoolAdministrationSystemUI](https://github.com/user-attachments/assets/4f796aef-43aa-4f0f-91e4-953124c0316d)
+![SchoolAdministrationSystemUI](https://res.cloudinary.com/dlxgvdvqg/image/upload/v1744031266/SchoolAdministrationSystemUI_r1apgk.jpg)
 
 
 
 
 ### 🧾 Swagger UI Screenshot/Current API Dev Status
-![Screenshot 2025-04-07 173813](https://github.com/user-attachments/assets/e60ebbd3-8892-4f55-84e3-76ffdbb2daea)
+![Screenshot 2025-04-07 173813](https://res.cloudinary.com/dlxgvdvqg/image/upload/v1744031166/Screenshot_2025-04-07_173813_qcq73v.png)
 
 
 ---
