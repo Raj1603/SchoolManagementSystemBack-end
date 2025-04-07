@@ -6,7 +6,7 @@ A comprehensive and user-friendly digital school administration system that enab
 
 ## 📁 Project Resources
 
-- **[API Design Document](https://docs.google.com/document/d/13VHjgQEg8ebRn16AgWfqX1xgfxXa-bzvmmUzP71gDHo/edit?usp=sharing)**  
+- **[API Design Document](https://docs.google.com/document/d/1dACmwmlhZIZBMFnkkMYFHXR4zh2_agWiEy-haQvv_8w/edit?usp=sharing)**  
   Complete list of endpoints, request/response formats, and access control mechanisms.
 
 - **[Architecture Diagram](https://docs.google.com/document/d/1vWqml8O8fl7eBnEjBJVvu830CL2YMP9g96SSsFGHz_E/edit?usp=sharing)**  
