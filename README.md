@@ -57,5 +57,5 @@ A comprehensive and user-friendly digital school administration system that enab
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/school-admin-system.git
-   cd school-admin-system
+   git clone https://github.com/Raj1603/SchoolManagementSystemBack-end.git
+   cd SchoolManagementSystemBack-end
